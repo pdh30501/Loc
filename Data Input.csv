@@ -1,0 +1,6 @@
+Activity Type,Distance,Duration(min),Avg HR,Avg Speed,Avg Bike Cadence,Elev Gain,Elev Loss,ID
+indoor_cycling,20,60,80,30,80,0,0,1
+indoor_cycling,20,60,80,30,80,0,0,2
+indoor_cycling,20,60,80,30,80,0,0,3
+indoor_cycling,20,60,80,30,80,0,0,4
+indoor_cycling,30,60,80,30,80,0,0,5
